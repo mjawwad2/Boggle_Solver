@@ -1,0 +1,8 @@
+1	he
+2	hell
+3	hello
+4	eh
+5	el
+6	ell
+7	lo
+8	ole

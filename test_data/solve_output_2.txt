@@ -1,0 +1,13 @@
+1	eh
+2	el
+3	ell
+4	ho
+5	hole
+6	hoe
+7	he
+8	hell
+9	hello
+10	lo
+11	oh
+12	ole
+13	oe

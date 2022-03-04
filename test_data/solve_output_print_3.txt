@@ -1,0 +1,917 @@
+Word: al
+Number of Words: 1
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'   n    i  	  0    2    0    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: alnico
+Number of Words: 2
+ 'a'   u   'c'  'o' 	  1    0    5    6  
+  n   'l'  'n'  'i' 	  0    2    3    4  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ala
+Number of Words: 3
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'   n    i  	  0    2    0    0  
+  o    s   'a'   e  	  0    0    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: alan
+Number of Words: 4
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'  'n'   i  	  0    2    4    0  
+  o    s   'a'   e  	  0    0    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: alane
+Number of Words: 5
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'  'n'   i  	  0    2    4    0  
+  o    s   'a'  'e' 	  0    0    3    5  
+  m    a    i    e  	  0    0    0    0  
+
+Word: alans
+Number of Words: 6
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'  'n'   i  	  0    2    4    0  
+  o   's'  'a'   e  	  0    5    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: alae
+Number of Words: 7
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'   n    i  	  0    2    0    0  
+  o    s   'a'  'e' 	  0    0    3    4  
+  m    a    i    e  	  0    0    0    0  
+
+Word: alas
+Number of Words: 8
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'   n    i  	  0    2    0    0  
+  o   's'  'a'   e  	  0    4    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: als
+Number of Words: 9
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'   n    i  	  0    2    0    0  
+  o   's'   a    e  	  0    3    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: also
+Number of Words: 10
+ 'a'   u    c    o  	  1    0    0    0  
+  n   'l'   n    i  	  0    2    0    0  
+ 'o'  's'   a    e  	  4    3    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: an
+Number of Words: 11
+ 'a'   u    c    o  	  1    0    0    0  
+ 'n'   l    n    i  	  2    0    0    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: anlas
+Number of Words: 12
+ 'a'   u    c    o  	  1    0    0    0  
+ 'n'  'l'   n    i  	  2    3    0    0  
+  o   's'  'a'   e  	  0    5    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ansa
+Number of Words: 13
+ 'a'   u    c    o  	  1    0    0    0  
+ 'n'   l    n    i  	  2    0    0    0  
+  o   's'  'a'   e  	  0    3    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ansae
+Number of Words: 14
+ 'a'   u    c    o  	  1    0    0    0  
+ 'n'   l    n    i  	  2    0    0    0  
+  o   's'  'a'  'e' 	  0    3    4    5  
+  m    a    i    e  	  0    0    0    0  
+
+Word: anoa
+Number of Words: 15
+ 'a'   u    c    o  	  1    0    0    0  
+ 'n'   l    n    i  	  2    0    0    0  
+ 'o'   s    a    e  	  3    0    0    0  
+  m   'a'   i    e  	  0    4    0    0  
+
+Word: anoas
+Number of Words: 16
+ 'a'   u    c    o  	  1    0    0    0  
+ 'n'   l    n    i  	  2    0    0    0  
+ 'o'  's'   a    e  	  3    5    0    0  
+  m   'a'   i    e  	  0    4    0    0  
+
+Word: un
+Number of Words: 17
+  a   'u'   c    o  	  0    1    0    0  
+  n    l   'n'   i  	  0    0    2    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: unco
+Number of Words: 18
+  a   'u'  'c'  'o' 	  0    1    3    4  
+  n    l   'n'   i  	  0    0    2    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: unci
+Number of Words: 19
+  a   'u'  'c'   o  	  0    1    3    0  
+  n    l   'n'  'i' 	  0    0    2    4  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: uncia
+Number of Words: 20
+  a   'u'  'c'   o  	  0    1    3    0  
+  n    l   'n'  'i' 	  0    0    2    4  
+  o    s   'a'   e  	  0    0    5    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: unciae
+Number of Words: 21
+  a   'u'  'c'   o  	  0    1    3    0  
+  n    l   'n'  'i' 	  0    0    2    4  
+  o    s   'a'  'e' 	  0    0    5    6  
+  m    a    i    e  	  0    0    0    0  
+
+Word: uncial
+Number of Words: 22
+  a   'u'  'c'   o  	  0    1    3    0  
+  n   'l'  'n'  'i' 	  0    6    2    4  
+  o    s   'a'   e  	  0    0    5    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: uncials
+Number of Words: 23
+  a   'u'  'c'   o  	  0    1    3    0  
+  n   'l'  'n'  'i' 	  0    6    2    4  
+  o   's'  'a'   e  	  0    7    5    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: unai
+Number of Words: 24
+  a   'u'   c    o  	  0    1    0    0  
+  n    l   'n'  'i' 	  0    0    2    4  
+  o    s   'a'   e  	  0    0    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: unais
+Number of Words: 25
+  a   'u'   c    o  	  0    1    0    0  
+  n    l   'n'   i  	  0    0    2    0  
+  o   's'  'a'   e  	  0    5    3    0  
+  m    a   'i'   e  	  0    0    4    0  
+
+Word: uns
+Number of Words: 26
+  a   'u'   c    o  	  0    1    0    0  
+  n    l   'n'   i  	  0    0    2    0  
+  o   's'   a    e  	  0    3    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ulna
+Number of Words: 27
+  a   'u'   c    o  	  0    1    0    0  
+  n   'l'  'n'   i  	  0    2    3    0  
+  o    s   'a'   e  	  0    0    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ulnae
+Number of Words: 28
+  a   'u'   c    o  	  0    1    0    0  
+  n   'l'  'n'   i  	  0    2    3    0  
+  o    s   'a'  'e' 	  0    0    4    5  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ulnas
+Number of Words: 29
+  a   'u'   c    o  	  0    1    0    0  
+  n   'l'  'n'   i  	  0    2    3    0  
+  o   's'  'a'   e  	  0    5    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ulan
+Number of Words: 30
+  a   'u'   c    o  	  0    1    0    0  
+  n   'l'  'n'   i  	  0    2    4    0  
+  o    s   'a'   e  	  0    0    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ulans
+Number of Words: 31
+  a   'u'   c    o  	  0    1    0    0  
+  n   'l'  'n'   i  	  0    2    4    0  
+  o   's'  'a'   e  	  0    5    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: coin
+Number of Words: 32
+  a    u   'c'  'o' 	  0    0    1    2  
+  n    l   'n'  'i' 	  0    0    4    3  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: coins
+Number of Words: 33
+  a    u   'c'  'o' 	  0    0    1    2  
+  n    l   'n'  'i' 	  0    0    4    3  
+  o   's'   a    e  	  0    5    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: con
+Number of Words: 34
+  a    u   'c'  'o' 	  0    0    1    2  
+  n    l   'n'   i  	  0    0    3    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: coni
+Number of Words: 35
+  a    u   'c'  'o' 	  0    0    1    2  
+  n    l   'n'  'i' 	  0    0    3    4  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: cone
+Number of Words: 36
+  a    u   'c'  'o' 	  0    0    1    2  
+  n    l   'n'   i  	  0    0    3    0  
+  o    s    a   'e' 	  0    0    0    4  
+  m    a    i    e  	  0    0    0    0  
+
+Word: cons
+Number of Words: 37
+  a    u   'c'  'o' 	  0    0    1    2  
+  n    l   'n'   i  	  0    0    3    0  
+  o   's'   a    e  	  0    4    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: consol
+Number of Words: 38
+  a    u   'c'  'o' 	  0    0    1    2  
+  n   'l'  'n'   i  	  0    6    3    0  
+ 'o'  's'   a    e  	  5    4    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: cion
+Number of Words: 39
+  a    u   'c'  'o' 	  0    0    1    3  
+  n    l   'n'  'i' 	  0    0    4    2  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: cions
+Number of Words: 40
+  a    u   'c'  'o' 	  0    0    1    3  
+  n    l   'n'  'i' 	  0    0    4    2  
+  o   's'   a    e  	  0    5    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: cine
+Number of Words: 41
+  a    u   'c'   o  	  0    0    1    0  
+  n    l   'n'  'i' 	  0    0    3    2  
+  o    s    a   'e' 	  0    0    0    4  
+  m    a    i    e  	  0    0    0    0  
+
+Word: clan
+Number of Words: 42
+  a    u   'c'   o  	  0    0    1    0  
+  n   'l'  'n'   i  	  0    2    4    0  
+  o    s   'a'   e  	  0    0    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: clans
+Number of Words: 43
+  a    u   'c'   o  	  0    0    1    0  
+  n   'l'  'n'   i  	  0    2    4    0  
+  o   's'  'a'   e  	  0    5    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: clon
+Number of Words: 44
+  a    u   'c'   o  	  0    0    1    0  
+ 'n'  'l'   n    i  	  4    2    0    0  
+ 'o'   s    a    e  	  3    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: clons
+Number of Words: 45
+  a    u   'c'   o  	  0    0    1    0  
+ 'n'  'l'   n    i  	  4    2    0    0  
+ 'o'  's'   a    e  	  3    5    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: cuneal
+Number of Words: 46
+  a   'u'  'c'   o  	  0    2    1    0  
+  n   'l'  'n'   i  	  0    6    3    0  
+  o    s   'a'  'e' 	  0    0    5    4  
+  m    a    i    e  	  0    0    0    0  
+
+Word: on
+Number of Words: 47
+  a    u    c   'o' 	  0    0    0    1  
+  n    l   'n'   i  	  0    0    2    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: one
+Number of Words: 48
+  a    u    c   'o' 	  0    0    0    1  
+  n    l   'n'   i  	  0    0    2    0  
+  o    s    a   'e' 	  0    0    0    3  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ons
+Number of Words: 49
+  a    u    c   'o' 	  0    0    0    1  
+  n    l   'n'   i  	  0    0    2    0  
+  o   's'   a    e  	  0    3    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: na
+Number of Words: 50
+ 'a'   u    c    o  	  2    0    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: nu
+Number of Words: 51
+  a   'u'   c    o  	  0    2    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: nun
+Number of Words: 52
+  a   'u'   c    o  	  0    2    0    0  
+ 'n'   l   'n'   i  	  1    0    3    0  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: nuncio
+Number of Words: 53
+  a   'u'  'c'  'o' 	  0    2    4    6  
+ 'n'   l   'n'  'i' 	  1    0    3    5  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: nuns
+Number of Words: 54
+  a   'u'   c    o  	  0    2    0    0  
+ 'n'   l   'n'   i  	  1    0    3    0  
+  o   's'   a    e  	  0    4    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: no
+Number of Words: 55
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: nos
+Number of Words: 56
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+ 'o'  's'   a    e  	  2    3    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: nom
+Number of Words: 57
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+ 'm'   a    i    e  	  3    0    0    0  
+
+Word: noms
+Number of Words: 58
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+ 'o'  's'   a    e  	  2    4    0    0  
+ 'm'   a    i    e  	  3    0    0    0  
+
+Word: noma
+Number of Words: 59
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+ 'm'  'a'   i    e  	  3    4    0    0  
+
+Word: nomas
+Number of Words: 60
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  1    0    0    0  
+ 'o'  's'   a    e  	  2    5    0    0  
+ 'm'  'a'   i    e  	  3    4    0    0  
+
+Word: lune
+Number of Words: 61
+  a   'u'   c    o  	  0    2    0    0  
+  n   'l'  'n'   i  	  0    1    3    0  
+  o    s    a   'e' 	  0    0    0    4  
+  m    a    i    e  	  0    0    0    0  
+
+Word: luna
+Number of Words: 62
+  a   'u'   c    o  	  0    2    0    0  
+  n   'l'  'n'   i  	  0    1    3    0  
+  o    s   'a'   e  	  0    0    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: lunas
+Number of Words: 63
+  a   'u'   c    o  	  0    2    0    0  
+  n   'l'  'n'   i  	  0    1    3    0  
+  o   's'  'a'   e  	  0    5    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: la
+Number of Words: 64
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    1    0    0  
+  o    s   'a'   e  	  0    0    2    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: lane
+Number of Words: 65
+  a    u    c    o  	  0    0    0    0  
+  n   'l'  'n'   i  	  0    1    3    0  
+  o    s   'a'  'e' 	  0    0    2    4  
+  m    a    i    e  	  0    0    0    0  
+
+Word: lain
+Number of Words: 66
+  a    u    c    o  	  0    0    0    0  
+  n   'l'  'n'  'i' 	  0    1    4    3  
+  o    s   'a'   e  	  0    0    2    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: laic
+Number of Words: 67
+  a    u   'c'   o  	  0    0    4    0  
+  n   'l'   n   'i' 	  0    1    0    3  
+  o    s   'a'   e  	  0    0    2    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: las
+Number of Words: 68
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    1    0    0  
+  o   's'  'a'   e  	  0    3    2    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: lo
+Number of Words: 69
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    1    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: loam
+Number of Words: 70
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    1    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+ 'm'  'a'   i    e  	  4    3    0    0  
+
+Word: loams
+Number of Words: 71
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    1    0    0  
+ 'o'  's'   a    e  	  2    5    0    0  
+ 'm'  'a'   i    e  	  4    3    0    0  
+
+Word: ne
+Number of Words: 72
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'   i  	  0    0    1    0  
+  o    s    a   'e' 	  0    0    0    2  
+  m    a    i    e  	  0    0    0    0  
+
+Word: nee
+Number of Words: 73
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'   i  	  0    0    1    0  
+  o    s    a   'e' 	  0    0    0    2  
+  m    a    i   'e' 	  0    0    0    3  
+
+Word: nae
+Number of Words: 74
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'   i  	  0    0    1    0  
+  o    s   'a'  'e' 	  0    0    2    3  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ion
+Number of Words: 75
+  a    u    c   'o' 	  0    0    0    2  
+  n    l   'n'  'i' 	  0    0    3    1  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ions
+Number of Words: 76
+  a    u    c   'o' 	  0    0    0    2  
+  n    l   'n'  'i' 	  0    0    3    1  
+  o   's'   a    e  	  0    4    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: in
+Number of Words: 77
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'  'i' 	  0    0    2    1  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: inocula
+Number of Words: 78
+  a   'u'  'c'  'o' 	  0    5    4    3  
+  n   'l'  'n'  'i' 	  0    6    2    1  
+  o    s   'a'   e  	  0    0    7    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ins
+Number of Words: 79
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'  'i' 	  0    0    2    1  
+  o   's'   a    e  	  0    3    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: icon
+Number of Words: 80
+  a    u   'c'  'o' 	  0    0    2    3  
+  n    l   'n'  'i' 	  0    0    4    1  
+  o    s    a    e  	  0    0    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: icons
+Number of Words: 81
+  a    u   'c'  'o' 	  0    0    2    3  
+  n    l   'n'  'i' 	  0    0    4    1  
+  o   's'   a    e  	  0    5    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: os
+Number of Words: 82
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'  's'   a    e  	  1    2    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: om
+Number of Words: 83
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'   s    a    e  	  1    0    0    0  
+ 'm'   a    i    e  	  2    0    0    0  
+
+Word: oms
+Number of Words: 84
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'  's'   a    e  	  1    3    0    0  
+ 'm'   a    i    e  	  2    0    0    0  
+
+Word: omasa
+Number of Words: 85
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'  's'  'a'   e  	  1    4    5    0  
+ 'm'  'a'   i    e  	  2    3    0    0  
+
+Word: slain
+Number of Words: 86
+  a    u    c    o  	  0    0    0    0  
+  n   'l'  'n'  'i' 	  0    2    5    4  
+  o   's'  'a'   e  	  0    1    3    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: sane
+Number of Words: 87
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'   i  	  0    0    3    0  
+  o   's'  'a'  'e' 	  0    1    2    4  
+  m    a    i    e  	  0    0    0    0  
+
+Word: sain
+Number of Words: 88
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'  'i' 	  0    0    4    3  
+  o   's'  'a'   e  	  0    1    2    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: sae
+Number of Words: 89
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'  'a'  'e' 	  0    1    2    3  
+  m    a    i    e  	  0    0    0    0  
+
+Word: sal
+Number of Words: 90
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+  o   's'  'a'   e  	  0    1    2    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: salon
+Number of Words: 91
+  a    u    c    o  	  0    0    0    0  
+ 'n'  'l'   n    i  	  5    3    0    0  
+ 'o'  's'  'a'   e  	  4    1    2    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: si
+Number of Words: 92
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'   a    e  	  0    1    0    0  
+  m    a   'i'   e  	  0    0    2    0  
+
+Word: sial
+Number of Words: 93
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    4    0    0  
+  o   's'  'a'   e  	  0    1    3    0  
+  m    a   'i'   e  	  0    0    2    0  
+
+Word: so
+Number of Words: 94
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'  's'   a    e  	  2    1    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: son
+Number of Words: 95
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  3    0    0    0  
+ 'o'  's'   a    e  	  2    1    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: sol
+Number of Words: 96
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+ 'o'  's'   a    e  	  2    1    0    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: sola
+Number of Words: 97
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+ 'o'  's'  'a'   e  	  2    1    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: solan
+Number of Words: 98
+  a    u    c    o  	  0    0    0    0  
+  n   'l'  'n'   i  	  0    3    5    0  
+ 'o'  's'  'a'   e  	  2    1    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: solano
+Number of Words: 99
+  a    u    c   'o' 	  0    0    0    6  
+  n   'l'  'n'   i  	  0    3    5    0  
+ 'o'  's'  'a'   e  	  2    1    4    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: soma
+Number of Words: 100
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'  's'   a    e  	  2    1    0    0  
+ 'm'  'a'   i    e  	  3    4    0    0  
+
+Word: ani
+Number of Words: 101
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'  'i' 	  0    0    2    3  
+  o    s   'a'   e  	  0    0    1    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ane
+Number of Words: 102
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'   i  	  0    0    2    0  
+  o    s   'a'  'e' 	  0    0    1    3  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ai
+Number of Words: 103
+  a    u    c    o  	  0    0    0    0  
+  n    l    n   'i' 	  0    0    0    2  
+  o    s   'a'   e  	  0    0    1    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ain
+Number of Words: 104
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'  'i' 	  0    0    3    2  
+  o    s   'a'   e  	  0    0    1    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ains
+Number of Words: 105
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'  'i' 	  0    0    3    2  
+  o   's'  'a'   e  	  0    4    1    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ae
+Number of Words: 106
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o    s   'a'  'e' 	  0    0    1    2  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ais
+Number of Words: 107
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'  'a'   e  	  0    3    1    0  
+  m    a   'i'   e  	  0    0    2    0  
+
+Word: aa
+Number of Words: 108
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o    s   'a'   e  	  0    0    1    0  
+  m   'a'   i    e  	  0    2    0    0  
+
+Word: aas
+Number of Words: 109
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'  'a'   e  	  0    3    1    0  
+  m   'a'   i    e  	  0    2    0    0  
+
+Word: as
+Number of Words: 110
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'  'a'   e  	  0    2    1    0  
+  m    a    i    e  	  0    0    0    0  
+
+Word: en
+Number of Words: 111
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'   i  	  0    0    2    0  
+  o    s    a   'e' 	  0    0    0    1  
+  m    a    i    e  	  0    0    0    0  
+
+Word: ens
+Number of Words: 112
+  a    u    c    o  	  0    0    0    0  
+  n    l   'n'   i  	  0    0    2    0  
+  o   's'   a   'e' 	  0    3    0    1  
+  m    a    i    e  	  0    0    0    0  
+
+Word: mo
+Number of Words: 113
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: mon
+Number of Words: 114
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  3    0    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: mons
+Number of Words: 115
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  3    0    0    0  
+ 'o'  's'   a    e  	  2    4    0    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: mol
+Number of Words: 116
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: mola
+Number of Words: 117
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+ 'o'   s   'a'   e  	  2    0    4    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: molas
+Number of Words: 118
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+ 'o'  's'  'a'   e  	  2    5    4    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: mols
+Number of Words: 119
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+ 'o'  's'   a    e  	  2    4    0    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: mos
+Number of Words: 120
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'  's'   a    e  	  2    3    0    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: mosaic
+Number of Words: 121
+  a    u   'c'   o  	  0    0    6    0  
+  n    l    n   'i' 	  0    0    0    5  
+ 'o'  's'  'a'   e  	  2    3    4    0  
+ 'm'   a    i    e  	  1    0    0    0  
+
+Word: moa
+Number of Words: 122
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'   s    a    e  	  2    0    0    0  
+ 'm'  'a'   i    e  	  1    3    0    0  
+
+Word: moas
+Number of Words: 123
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+ 'o'  's'   a    e  	  2    4    0    0  
+ 'm'  'a'   i    e  	  1    3    0    0  
+
+Word: ma
+Number of Words: 124
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o    s    a    e  	  0    0    0    0  
+ 'm'  'a'   i    e  	  1    2    0    0  
+
+Word: mas
+Number of Words: 125
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'   a    e  	  0    3    0    0  
+ 'm'  'a'   i    e  	  1    2    0    0  
+
+Word: mason
+Number of Words: 126
+  a    u    c    o  	  0    0    0    0  
+ 'n'   l    n    i  	  5    0    0    0  
+ 'o'  's'   a    e  	  4    3    0    0  
+ 'm'  'a'   i    e  	  1    2    0    0  
+
+Word: aal
+Number of Words: 127
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+  o    s   'a'   e  	  0    0    2    0  
+  m   'a'   i    e  	  0    1    0    0  
+
+Word: aals
+Number of Words: 128
+  a    u    c    o  	  0    0    0    0  
+  n   'l'   n    i  	  0    3    0    0  
+  o   's'  'a'   e  	  0    4    2    0  
+  m   'a'   i    e  	  0    1    0    0  
+
+Word: am
+Number of Words: 129
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o    s    a    e  	  0    0    0    0  
+ 'm'  'a'   i    e  	  2    1    0    0  
+
+Word: is
+Number of Words: 130
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'   a    e  	  0    2    0    0  
+  m    a   'i'   e  	  0    0    1    0  
+
+Word: ism
+Number of Words: 131
+  a    u    c    o  	  0    0    0    0  
+  n    l    n    i  	  0    0    0    0  
+  o   's'   a    e  	  0    2    0    0  
+ 'm'   a   'i'   e  	  3    0    1    0  
+

@@ -1,0 +1,56 @@
+Word: he
+Number of Words: 1
+ 'h'   q    q    q  	  1    0    0    0  
+ 'e'   q    q    q  	  2    0    0    0  
+  l    q    q    q  	  0    0    0    0  
+  l    o    q    q  	  0    0    0    0  
+
+Word: hell
+Number of Words: 2
+ 'h'   q    q    q  	  1    0    0    0  
+ 'e'   q    q    q  	  2    0    0    0  
+ 'l'   q    q    q  	  3    0    0    0  
+ 'l'   o    q    q  	  4    0    0    0  
+
+Word: hello
+Number of Words: 3
+ 'h'   q    q    q  	  1    0    0    0  
+ 'e'   q    q    q  	  2    0    0    0  
+ 'l'   q    q    q  	  3    0    0    0  
+ 'l'  'o'   q    q  	  4    5    0    0  
+
+Word: eh
+Number of Words: 4
+ 'h'   q    q    q  	  2    0    0    0  
+ 'e'   q    q    q  	  1    0    0    0  
+  l    q    q    q  	  0    0    0    0  
+  l    o    q    q  	  0    0    0    0  
+
+Word: el
+Number of Words: 5
+  h    q    q    q  	  0    0    0    0  
+ 'e'   q    q    q  	  1    0    0    0  
+ 'l'   q    q    q  	  2    0    0    0  
+  l    o    q    q  	  0    0    0    0  
+
+Word: ell
+Number of Words: 6
+  h    q    q    q  	  0    0    0    0  
+ 'e'   q    q    q  	  1    0    0    0  
+ 'l'   q    q    q  	  2    0    0    0  
+ 'l'   o    q    q  	  3    0    0    0  
+
+Word: lo
+Number of Words: 7
+  h    q    q    q  	  0    0    0    0  
+  e    q    q    q  	  0    0    0    0  
+ 'l'   q    q    q  	  1    0    0    0  
+  l   'o'   q    q  	  0    2    0    0  
+
+Word: ole
+Number of Words: 8
+  h    q    q    q  	  0    0    0    0  
+ 'e'   q    q    q  	  3    0    0    0  
+ 'l'   q    q    q  	  2    0    0    0  
+  l   'o'   q    q  	  0    1    0    0  
+

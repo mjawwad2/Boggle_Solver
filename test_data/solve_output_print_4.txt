@@ -1,0 +1,721 @@
+Word: yird
+Number of Words: 1
+ 'y'  'r'   u    k  	  1    3    0    0  
+ 'i'   n   'd'   l  	  2    0    4    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: yirds
+Number of Words: 2
+ 'y'  'r'   u    k  	  1    3    0    0  
+ 'i'   n   'd'   l  	  2    0    4    0  
+  z    o    t   's' 	  0    0    0    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: yin
+Number of Words: 3
+ 'y'   r    u    k  	  1    0    0    0  
+ 'i'  'n'   d    l  	  2    3    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: run
+Number of Words: 4
+  y   'r'  'u'   k  	  0    1    2    0  
+  i   'n'   d    l  	  0    3    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: runt
+Number of Words: 5
+  y   'r'  'u'   k  	  0    1    2    0  
+  i   'n'   d    l  	  0    3    0    0  
+  z    o   't'   s  	  0    0    4    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: runts
+Number of Words: 6
+  y   'r'  'u'   k  	  0    1    2    0  
+  i   'n'   d    l  	  0    3    0    0  
+  z    o   't'  's' 	  0    0    4    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: rin
+Number of Words: 7
+  y   'r'   u    k  	  0    1    0    0  
+ 'i'  'n'   d    l  	  2    3    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: rind
+Number of Words: 8
+  y   'r'   u    k  	  0    1    0    0  
+ 'i'  'n'  'd'   l  	  2    3    4    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: rinds
+Number of Words: 9
+  y   'r'   u    k  	  0    1    0    0  
+ 'i'  'n'  'd'   l  	  2    3    4    0  
+  z    o    t   's' 	  0    0    0    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: riot
+Number of Words: 10
+  y   'r'   u    k  	  0    1    0    0  
+ 'i'   n    d    l  	  2    0    0    0  
+  z   'o'  't'   s  	  0    3    4    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: riots
+Number of Words: 11
+  y   'r'   u    k  	  0    1    0    0  
+ 'i'   n    d    l  	  2    0    0    0  
+  z   'o'  't'  's' 	  0    3    4    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: rynd
+Number of Words: 12
+ 'y'  'r'   u    k  	  2    1    0    0  
+  i   'n'  'd'   l  	  0    3    4    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: rynds
+Number of Words: 13
+ 'y'  'r'   u    k  	  2    1    0    0  
+  i   'n'  'd'   l  	  0    3    4    0  
+  z    o    t   's' 	  0    0    0    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: udo
+Number of Words: 14
+  y    r   'u'   k  	  0    0    1    0  
+  i    n   'd'   l  	  0    0    2    0  
+  z   'o'   t    s  	  0    3    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: un
+Number of Words: 15
+  y    r   'u'   k  	  0    0    1    0  
+  i   'n'   d    l  	  0    2    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: undo
+Number of Words: 16
+  y    r   'u'   k  	  0    0    1    0  
+  i   'n'  'd'   l  	  0    2    3    0  
+  z   'o'   t    s  	  0    4    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: unto
+Number of Words: 17
+  y    r   'u'   k  	  0    0    1    0  
+  i   'n'   d    l  	  0    2    0    0  
+  z   'o'  't'   s  	  0    4    3    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: urd
+Number of Words: 18
+  y   'r'  'u'   k  	  0    2    1    0  
+  i    n   'd'   l  	  0    0    3    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: urds
+Number of Words: 19
+  y   'r'  'u'   k  	  0    2    1    0  
+  i    n   'd'   l  	  0    0    3    0  
+  z    o    t   's' 	  0    0    0    4  
+  x    q    a    e  	  0    0    0    0  
+
+Word: urn
+Number of Words: 20
+  y   'r'  'u'   k  	  0    2    1    0  
+  i   'n'   d    l  	  0    3    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: kudo
+Number of Words: 21
+  y    r   'u'  'k' 	  0    0    2    1  
+  i    n   'd'   l  	  0    0    3    0  
+  z   'o'   t    s  	  0    4    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: in
+Number of Words: 22
+  y    r    u    k  	  0    0    0    0  
+ 'i'  'n'   d    l  	  1    2    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: indult
+Number of Words: 23
+  y    r   'u'   k  	  0    0    4    0  
+ 'i'  'n'  'd'  'l' 	  1    2    3    5  
+  z    o   't'   s  	  0    0    6    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: indults
+Number of Words: 24
+  y    r   'u'   k  	  0    0    4    0  
+ 'i'  'n'  'd'  'l' 	  1    2    3    5  
+  z    o   't'  's' 	  0    0    6    7  
+  x    q    a    e  	  0    0    0    0  
+
+Word: into
+Number of Words: 25
+  y    r    u    k  	  0    0    0    0  
+ 'i'  'n'   d    l  	  1    2    0    0  
+  z   'o'  't'   s  	  0    4    3    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: ion
+Number of Words: 26
+  y    r    u    k  	  0    0    0    0  
+ 'i'  'n'   d    l  	  1    3    0    0  
+  z   'o'   t    s  	  0    2    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: iota
+Number of Words: 27
+  y    r    u    k  	  0    0    0    0  
+ 'i'   n    d    l  	  1    0    0    0  
+  z   'o'  't'   s  	  0    2    3    0  
+  x    q   'a'   e  	  0    0    4    0  
+
+Word: iotas
+Number of Words: 28
+  y    r    u    k  	  0    0    0    0  
+ 'i'   n    d    l  	  1    0    0    0  
+  z   'o'  't'  's' 	  0    2    3    5  
+  x    q   'a'   e  	  0    0    4    0  
+
+Word: nu
+Number of Words: 29
+  y    r   'u'   k  	  0    0    2    0  
+  i   'n'   d    l  	  0    1    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: nurd
+Number of Words: 30
+  y   'r'  'u'   k  	  0    3    2    0  
+  i   'n'  'd'   l  	  0    1    4    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: nurds
+Number of Words: 31
+  y   'r'  'u'   k  	  0    3    2    0  
+  i   'n'  'd'   l  	  0    1    4    0  
+  z    o    t   's' 	  0    0    0    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: no
+Number of Words: 32
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    1    0    0  
+  z   'o'   t    s  	  0    2    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: nod
+Number of Words: 33
+  y    r    u    k  	  0    0    0    0  
+  i   'n'  'd'   l  	  0    1    3    0  
+  z   'o'   t    s  	  0    2    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: nods
+Number of Words: 34
+  y    r    u    k  	  0    0    0    0  
+  i   'n'  'd'   l  	  0    1    3    0  
+  z   'o'   t   's' 	  0    2    0    4  
+  x    q    a    e  	  0    0    0    0  
+
+Word: not
+Number of Words: 35
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    1    0    0  
+  z   'o'  't'   s  	  0    2    3    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: note
+Number of Words: 36
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    1    0    0  
+  z   'o'  't'   s  	  0    2    3    0  
+  x    q    a   'e' 	  0    0    0    4  
+
+Word: notes
+Number of Words: 37
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    1    0    0  
+  z   'o'  't'  's' 	  0    2    3    5  
+  x    q    a   'e' 	  0    0    0    4  
+
+Word: nota
+Number of Words: 38
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    1    0    0  
+  z   'o'  't'   s  	  0    2    3    0  
+  x    q   'a'   e  	  0    0    4    0  
+
+Word: dulse
+Number of Words: 39
+  y    r   'u'   k  	  0    0    2    0  
+  i    n   'd'  'l' 	  0    0    1    3  
+  z    o    t   's' 	  0    0    0    4  
+  x    q    a   'e' 	  0    0    0    5  
+
+Word: dun
+Number of Words: 40
+  y    r   'u'   k  	  0    0    2    0  
+  i   'n'  'd'   l  	  0    3    1    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: dunt
+Number of Words: 41
+  y    r   'u'   k  	  0    0    2    0  
+  i   'n'  'd'   l  	  0    3    1    0  
+  z    o   't'   s  	  0    0    4    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: dunts
+Number of Words: 42
+  y    r   'u'   k  	  0    0    2    0  
+  i   'n'  'd'   l  	  0    3    1    0  
+  z    o   't'  's' 	  0    0    4    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: durn
+Number of Words: 43
+  y   'r'  'u'   k  	  0    3    2    0  
+  i   'n'  'd'   l  	  0    4    1    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: durion
+Number of Words: 44
+  y   'r'  'u'   k  	  0    3    2    0  
+ 'i'  'n'  'd'   l  	  4    6    1    0  
+  z   'o'   t    s  	  0    5    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: do
+Number of Words: 45
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z   'o'   t    s  	  0    2    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: don
+Number of Words: 46
+  y    r    u    k  	  0    0    0    0  
+  i   'n'  'd'   l  	  0    3    1    0  
+  z   'o'   t    s  	  0    2    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: dot
+Number of Words: 47
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z   'o'  't'   s  	  0    2    3    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: dots
+Number of Words: 48
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z   'o'  't'  's' 	  0    2    3    4  
+  x    q    a    e  	  0    0    0    0  
+
+Word: dote
+Number of Words: 49
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z   'o'  't'   s  	  0    2    3    0  
+  x    q    a   'e' 	  0    0    0    4  
+
+Word: dotes
+Number of Words: 50
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z   'o'  't'  's' 	  0    2    3    5  
+  x    q    a   'e' 	  0    0    0    4  
+
+Word: doat
+Number of Words: 51
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z   'o'  't'   s  	  0    2    4    0  
+  x    q   'a'   e  	  0    0    3    0  
+
+Word: doats
+Number of Words: 52
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z   'o'  't'  's' 	  0    2    4    5  
+  x    q   'a'   e  	  0    0    3    0  
+
+Word: dry
+Number of Words: 53
+ 'y'  'r'   u    k  	  3    2    0    0  
+  i    n   'd'   l  	  0    0    1    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: lunt
+Number of Words: 54
+  y    r   'u'   k  	  0    0    2    0  
+  i   'n'   d   'l' 	  0    3    0    1  
+  z    o   't'   s  	  0    0    4    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: lunts
+Number of Words: 55
+  y    r   'u'   k  	  0    0    2    0  
+  i   'n'   d   'l' 	  0    3    0    1  
+  z    o   't'  's' 	  0    0    4    5  
+  x    q    a    e  	  0    0    0    0  
+
+Word: luny
+Number of Words: 56
+ 'y'   r   'u'   k  	  4    0    2    0  
+  i   'n'   d   'l' 	  0    3    0    1  
+  z    o    t    s  	  0    0    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: zoa
+Number of Words: 57
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+ 'z'  'o'   t    s  	  1    2    0    0  
+  x    q   'a'   e  	  0    0    3    0  
+
+Word: on
+Number of Words: 58
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    2    0    0  
+  z   'o'   t    s  	  0    1    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: od
+Number of Words: 59
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    2    0  
+  z   'o'   t    s  	  0    1    0    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: ods
+Number of Words: 60
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    2    0  
+  z   'o'   t   's' 	  0    1    0    3  
+  x    q    a    e  	  0    0    0    0  
+
+Word: oat
+Number of Words: 61
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'  't'   s  	  0    1    3    0  
+  x    q   'a'   e  	  0    0    2    0  
+
+Word: oats
+Number of Words: 62
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'  't'  's' 	  0    1    3    4  
+  x    q   'a'   e  	  0    0    2    0  
+
+Word: oast
+Number of Words: 63
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'  't'  's' 	  0    1    4    3  
+  x    q   'a'   e  	  0    0    2    0  
+
+Word: ox
+Number of Words: 64
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'   t    s  	  0    1    0    0  
+ 'x'   q    a    e  	  2    0    0    0  
+
+Word: tea
+Number of Words: 65
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    1    0  
+  x    q   'a'  'e' 	  0    0    3    2  
+
+Word: teas
+Number of Words: 66
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    1    4  
+  x    q   'a'  'e' 	  0    0    3    2  
+
+Word: ta
+Number of Words: 67
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    1    0  
+  x    q   'a'   e  	  0    0    2    0  
+
+Word: tas
+Number of Words: 68
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    1    3  
+  x    q   'a'   e  	  0    0    2    0  
+
+Word: tae
+Number of Words: 69
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    1    0  
+  x    q   'a'  'e' 	  0    0    2    3  
+
+Word: tao
+Number of Words: 70
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'  't'   s  	  0    3    1    0  
+  x    q   'a'   e  	  0    0    2    0  
+
+Word: to
+Number of Words: 71
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'  't'   s  	  0    2    1    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: ton
+Number of Words: 72
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    3    0    0  
+  z   'o'  't'   s  	  0    2    1    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: tony
+Number of Words: 73
+ 'y'   r    u    k  	  4    0    0    0  
+  i   'n'   d    l  	  0    3    0    0  
+  z   'o'  't'   s  	  0    2    1    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: tod
+Number of Words: 74
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    3    0  
+  z   'o'  't'   s  	  0    2    1    0  
+  x    q    a    e  	  0    0    0    0  
+
+Word: tods
+Number of Words: 75
+  y    r    u    k  	  0    0    0    0  
+  i    n   'd'   l  	  0    0    3    0  
+  z   'o'  't'  's' 	  0    2    1    4  
+  x    q    a    e  	  0    0    0    0  
+
+Word: slur
+Number of Words: 76
+  y   'r'  'u'   k  	  0    4    3    0  
+  i    n    d   'l' 	  0    0    0    2  
+  z    o    t   's' 	  0    0    0    1  
+  x    q    a    e  	  0    0    0    0  
+
+Word: sea
+Number of Words: 77
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o    t   's' 	  0    0    0    1  
+  x    q   'a'  'e' 	  0    0    3    2  
+
+Word: seat
+Number of Words: 78
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    4    1  
+  x    q   'a'  'e' 	  0    0    3    2  
+
+Word: set
+Number of Words: 79
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    3    1  
+  x    q    a   'e' 	  0    0    0    2  
+
+Word: seta
+Number of Words: 80
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    3    1  
+  x    q   'a'  'e' 	  0    0    4    2  
+
+Word: seton
+Number of Words: 81
+  y    r    u    k  	  0    0    0    0  
+  i   'n'   d    l  	  0    5    0    0  
+  z   'o'  't'  's' 	  0    4    3    1  
+  x    q    a   'e' 	  0    0    0    2  
+
+Word: sat
+Number of Words: 82
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    3    1  
+  x    q   'a'   e  	  0    0    2    0  
+
+Word: sate
+Number of Words: 83
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    3    1  
+  x    q   'a'  'e' 	  0    0    2    4  
+
+Word: sae
+Number of Words: 84
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o    t   's' 	  0    0    0    1  
+  x    q   'a'  'e' 	  0    0    2    3  
+
+Word: stony
+Number of Words: 85
+ 'y'   r    u    k  	  5    0    0    0  
+  i   'n'   d    l  	  0    4    0    0  
+  z   'o'  't'  's' 	  0    3    2    1  
+  x    q    a    e  	  0    0    0    0  
+
+Word: stoa
+Number of Words: 86
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'  't'  's' 	  0    3    2    1  
+  x    q   'a'   e  	  0    0    4    0  
+
+Word: stoae
+Number of Words: 87
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z   'o'  't'  's' 	  0    3    2    1  
+  x    q   'a'  'e' 	  0    0    4    5  
+
+Word: qat
+Number of Words: 88
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    3    0  
+  x   'q'  'a'   e  	  0    1    2    0  
+
+Word: qats
+Number of Words: 89
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    3    4  
+  x   'q'  'a'   e  	  0    1    2    0  
+
+Word: at
+Number of Words: 90
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    2    0  
+  x    q   'a'   e  	  0    0    1    0  
+
+Word: ate
+Number of Words: 91
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    2    0  
+  x    q   'a'  'e' 	  0    0    1    3  
+
+Word: ates
+Number of Words: 92
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    2    4  
+  x    q   'a'  'e' 	  0    0    1    3  
+
+Word: atony
+Number of Words: 93
+ 'y'   r    u    k  	  5    0    0    0  
+  i   'n'   d    l  	  0    4    0    0  
+  z   'o'  't'   s  	  0    3    2    0  
+  x    q   'a'   e  	  0    0    1    0  
+
+Word: as
+Number of Words: 94
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o    t   's' 	  0    0    0    2  
+  x    q   'a'   e  	  0    0    1    0  
+
+Word: astony
+Number of Words: 95
+ 'y'   r    u    k  	  6    0    0    0  
+  i   'n'   d    l  	  0    5    0    0  
+  z   'o'  't'  's' 	  0    4    3    2  
+  x    q   'a'   e  	  0    0    1    0  
+
+Word: ae
+Number of Words: 96
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o    t    s  	  0    0    0    0  
+  x    q   'a'  'e' 	  0    0    1    2  
+
+Word: es
+Number of Words: 97
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o    t   's' 	  0    0    0    2  
+  x    q    a   'e' 	  0    0    0    1  
+
+Word: eat
+Number of Words: 98
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    3    0  
+  x    q   'a'  'e' 	  0    0    2    1  
+
+Word: eats
+Number of Words: 99
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    3    4  
+  x    q   'a'  'e' 	  0    0    2    1  
+
+Word: east
+Number of Words: 100
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    4    3  
+  x    q   'a'  'e' 	  0    0    2    1  
+
+Word: et
+Number of Words: 101
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    2    0  
+  x    q    a   'e' 	  0    0    0    1  
+
+Word: eta
+Number of Words: 102
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'   s  	  0    0    2    0  
+  x    q   'a'  'e' 	  0    0    3    1  
+
+Word: etas
+Number of Words: 103
+  y    r    u    k  	  0    0    0    0  
+  i    n    d    l  	  0    0    0    0  
+  z    o   't'  's' 	  0    0    2    4  
+  x    q   'a'  'e' 	  0    0    3    1  
+

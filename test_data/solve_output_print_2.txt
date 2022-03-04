@@ -1,0 +1,91 @@
+Word: eh
+Number of Words: 1
+  q    q    q    q  	  0    0    0    0  
+ 'e'  'h'   q    q  	  1    2    0    0  
+  l    o    q    q  	  0    0    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: el
+Number of Words: 2
+  q    q    q    q  	  0    0    0    0  
+ 'e'   h    q    q  	  1    0    0    0  
+ 'l'   o    q    q  	  2    0    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: ell
+Number of Words: 3
+  q    q    q    q  	  0    0    0    0  
+ 'e'   h    q    q  	  1    0    0    0  
+ 'l'   o    q    q  	  2    0    0    0  
+ 'l'   q    q    q  	  3    0    0    0  
+
+Word: ho
+Number of Words: 4
+  q    q    q    q  	  0    0    0    0  
+  e   'h'   q    q  	  0    1    0    0  
+  l   'o'   q    q  	  0    2    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: hole
+Number of Words: 5
+  q    q    q    q  	  0    0    0    0  
+ 'e'  'h'   q    q  	  4    1    0    0  
+ 'l'  'o'   q    q  	  3    2    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: hoe
+Number of Words: 6
+  q    q    q    q  	  0    0    0    0  
+ 'e'  'h'   q    q  	  3    1    0    0  
+  l   'o'   q    q  	  0    2    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: he
+Number of Words: 7
+  q    q    q    q  	  0    0    0    0  
+ 'e'  'h'   q    q  	  2    1    0    0  
+  l    o    q    q  	  0    0    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: hell
+Number of Words: 8
+  q    q    q    q  	  0    0    0    0  
+ 'e'  'h'   q    q  	  2    1    0    0  
+ 'l'   o    q    q  	  3    0    0    0  
+ 'l'   q    q    q  	  4    0    0    0  
+
+Word: hello
+Number of Words: 9
+  q    q    q    q  	  0    0    0    0  
+ 'e'  'h'   q    q  	  2    1    0    0  
+ 'l'  'o'   q    q  	  3    5    0    0  
+ 'l'   q    q    q  	  4    0    0    0  
+
+Word: lo
+Number of Words: 10
+  q    q    q    q  	  0    0    0    0  
+  e    h    q    q  	  0    0    0    0  
+ 'l'  'o'   q    q  	  1    2    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: oh
+Number of Words: 11
+  q    q    q    q  	  0    0    0    0  
+  e   'h'   q    q  	  0    2    0    0  
+  l   'o'   q    q  	  0    1    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: ole
+Number of Words: 12
+  q    q    q    q  	  0    0    0    0  
+ 'e'   h    q    q  	  3    0    0    0  
+ 'l'  'o'   q    q  	  2    1    0    0  
+  l    q    q    q  	  0    0    0    0  
+
+Word: oe
+Number of Words: 13
+  q    q    q    q  	  0    0    0    0  
+ 'e'   h    q    q  	  2    0    0    0  
+  l   'o'   q    q  	  0    1    0    0  
+  l    q    q    q  	  0    0    0    0  
+
